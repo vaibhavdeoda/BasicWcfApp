@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfFunServiceApplication.Service1" CodeBehind="WcfFunService.MathOperations.cs" %>
